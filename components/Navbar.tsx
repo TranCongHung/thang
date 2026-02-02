@@ -19,8 +19,8 @@ const Navbar: React.FC = () => {
         <div className="flex items-center justify-between h-16">
           <div className="flex items-center">
             <Link to="/" className="flex items-center space-x-2">
-              <div className="bg-red-600 p-1.5 rounded text-yellow-400 font-bold border-2 border-yellow-500">
-                <BookOpen size={24} />
+              <div className="bg-red-600 p-1 rounded text-yellow-400 font-bold border-2 border-yellow-500">
+                <img src="/img/image-removebg-preview.png" alt="Sư đoàn 324 Logo" className="w-6 h-6" />
               </div>
               <span className="font-serif font-bold text-xl tracking-wide uppercase text-yellow-500">
                 Sư đoàn 324
