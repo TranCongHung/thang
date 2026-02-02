@@ -7,7 +7,7 @@ export const PERIODS: Period[] = [
     years: '1955 - 1966',
     shortDescription: 'Thành lập Sư đoàn, tham gia kiến thiết miền Bắc, thực hiện nhiệm vụ quốc tế tại Lào và những chiến công đầu chống Mỹ.',
     image: 'https://picsum.photos/800/400?grayscale&blur=2',
-    // audioUrl removed until file is available
+    audioUrl: '/audio/giai-doan-1.mp3',
     staticContent: {
       fullText: `Sự hình thành và những bước đi đầu tiên (1955-1966)
 
@@ -470,18 +470,190 @@ Ngày mùng 2 tháng 6 năm 1976, Sư đoàn được lệnh rời khỏi đội
   },
   {
     id: 'giai-doan-3',
-    title: 'Nhiệm vụ quốc tế tại Lào',
-    years: '1976 - 1989',
-    shortDescription: 'Thực hiện nghĩa vụ quốc tế cao cả, giúp nước bạn Lào bảo vệ thành quả cách mạng và xây dựng đất nước.',
+    title: 'Thực hiện nghĩa vụ quốc tế và Bảo vệ biên giới',
+    years: '1977 - 1987',
+    shortDescription: 'Thực hiện nghĩa vụ quốc tế cao cả, giúp nước bạn Lào bảo vệ thành quả cách mạng, truy quét phỉ và xây dựng đất nước.',
     image: 'https://picsum.photos/800/402?grayscale&blur=2',
-    // audioUrl removed until file is available
+    audioUrl: '/audio/giai-doan-3.mp3',
+    staticContent: {
+      fullText: `Ngày 02 tháng 12 năm 1975, nước Cộng hòa dân chủ nhân dân Lào chính thức được thành lập, đánh dấu bước ngoặt vĩ đại trong quá trình đấu tranh cách mạng của các bộ tộc Lào anh em sau 30 năm chiến tranh. Chính phủ nước Cộng hòa dân chủ nhân dân Lào khi mới thành lập tiếp quản một nền kinh tế kiệt quệ, lạm phát nghiêm trọng. Đế quốc Mỹ chỉ đạo, nuôi dưỡng và bọn phản động ở Thái Lan giúp sức tung lực lượng phản động về phá hoại. 
+
+Ngày 22 tháng 7 năm 1977, đồng chí Khăm-tày Xi-phăn-đon, Bộ trưởng Bộ Quốc phòng Lào và đồng chí Võ Nguyên Giáp, Bộ trưởng Bộ Quốc phòng Việt Nam thay mặt Chính phủ hai nước đã ký Hiệp định hợp tác quân sự. Theo đó, Quân khu 4 cử một đơn vị sang phía Tây làm nhiệm vụ quốc tế giúp bạn. Quân khu quyết định: Sử dụng Sư đoàn 324 tăng cường Trung đoàn 335 và 1 tiểu đoàn xe tăng thiết giáp sẵn sàng cơ động đảm nhiệm trên hướng chủ yếu của quân khu. Sau hai ngày vượt quãng đường 700 km trong điều kiện nắng nóng, đường nhiều dốc, vừa đi vừa sẵn sàng chiến đấu chống địch tập kích, phục kích. Sự có mặt đúng lúc của Trung đoàn 335 và tiểu đoàn xe tăng thiết giáp sát cánh cùng các lực lượng vũ trang nhân dân Lào sẵn sàng chiến đấu đã kịp thời trấn áp và ngăn chặn các hành động phá hoại của địch. Ngày 7 tháng 12 năm 1977, Sư đoàn đã tới vị trí tập kết trong niềm vui, phấn khởi của các bộ tộc Lào.
+
+Chiến thắng năm 1975 của cách mạng Lào diễn ra rất nhanh trên phạm vi cả nước; nhưng số sĩ quan, binh lính phỉ được Mỹ nuôi dưỡng co cụm vào rừng sâu, núp mình chờ thời cơ, bắt đầu móc nối với nhau, tung lực lượng trở về đất Lào hoạt động phá hoại. Trung tuần tháng 01 năm 1978, Sư đoàn 324 giúp bạn triển khai nhiệm vụ tiến công tiêu diệt cụm phỉ ở Phu Bia.
+
+04 giờ 30 phút ngày 10 tháng 2 năm 1978, pháo binh của Bạn đồng loạt bắn vào các cụm mục tiêu; trận chiến đấu giải phóng Phu Bia bắt đầu. Đến 10 giờ ngày 13 tháng 11 năm 1978, ta hoàn toàn làm chủ Phu Bia. Lá cờ chiến thắng phấp phới bay trên đỉnh núi Phu Bia báo tin vui thắng trận. Chiến dịch Phu Bia kết thúc.
+
+Trải qua hơn 200 ngày đêm chiến đấu, phối hợp chặt chẽ với các đơn vị Quân giải phóng nhân dân Lào và các đơn vị tăng cường, dưới sự chỉ huy trực tiếp của Bộ chỉ huy liên quân Lào - Việt, Sư đoàn 324 đã góp phần giúp bạn tiêu diệt và làm tan rã toàn bộ bọn phỉ ở căn cứ Phu Bia - một trong hai căn cứ phỉ lớn nhất ở Lào. Trong chiến dịch này, ta giành lại và giải phóng 5.800 dân, thu 2.000 súng các loại, 30 máy thông tin và nhiều phương tiện chiến tranh khác, giải phóng vùng núi rộng lớn 2.500 km2.
+
+Chiến thắng Phu Bia là đỉnh cao của Sư đoàn 324 về sự phối hợp với bạn diệt phỉ giành dân trong suốt 10 năm làm nhiệm vụ quốc tế vẻ vang.
+
+Với chiến công đó, Sư đoàn được Nhà nước Cộng hòa dân chủ nhân dân Lào tặng huân chương Ít-xa-la hạng Nhất. Ngày 22 tháng 12 năm 1978, nhân dịp kỷ niệm 44 năm ngày thành lập Quân đội nhân dân Việt Nam, tại sở chỉ huy Sư đoàn 324 ở Văng Viêng, đồng chí Trung tướng Xa Mán Vi Nha Kệt, Ủy viên Bộ Chính trị, Bí thư Trung ương Đảng, Chủ nhiệm Tổng cục Chính trị Quân đội nhân dân Lào đã long trọng gắn tấm huân chương cao quý đó lên lá cờ “Quyết chiến, quyết thắng” của Sư đoàn.
+
+Tháng 02 năm 1978, Đảng ủy Sư đoàn tổ chức Hội nghị (mở rộng) nghiên cứu quán triệt Nghị quyết Thường vụ Quân ủy Trung ương về đối tượng của cách mạng, đối tượng tác chiến mới của các lực lượng vũ trang ta trong tình hình mới.
+
+Tháng 9 năm 1978, đoàn đại biểu quân sự cấp cao nước Cộng hòa dân chủ nhân dân Lào do Đại tướng Khăm-tày Xi-phăn-đon, Ủy viên Bộ Chính trị, Phó thủ tướng kiêm Bộ trưởng Quốc phòng nước Lào dẫn đầu sang thăm nước ta, thắt chặt thêm tình hữu nghị lâu đời giữa hai dân tộc và quân đội Lào - Việt. Cùng với Hiệp định hợp tác toàn diện trong liên minh đoàn kết đặc biệt Việt - Lào được ký kết ngày 18 tháng 7 năm 1977, sự kiện đoàn đại biểu quân sự cấp cao nước Cộng hòa dân chủ nhân dân Lào đến thăm nước ta một lần nữa khẳng định tính nguyên tắc của tình đoàn kết liên minh chiến đấu Lào - Việt. Chống kẻ thù chung của hai dân tộc là yêu cầu sống còn của mỗi nước.
+
+Để thực hiện những điều khoản đã được ký kết giữa hai quân đội, tăng cường sự lãnh đạo thống nhất, tập trung, bảo đảm chặt chẽ về tổ chức tác chiến và xây dựng của các lực lượng vũ trang ta đang làm nhiệm vụ trên đất bạn Lào, Bộ Chính trị quyết định thành lập Binh đoàn 678. Ngày 28 tháng 6 năm 1978, Chủ tịch nước Cộng hòa xã hội chủ nghĩa Việt Nam đã ký Sắc lệnh số 63/LTC về việc thành lập Binh đoàn 678 trực thuộc Bộ Quốc phòng mà thành phần là các đơn vị tình nguyện đang làm nhiệm vụ quốc tế trên đất nước Lào gồm: Mặt trận 379, Sư đoàn 968, Sư đoàn 324, Lữ đoàn 176 và một số phân đội trực thuộc.
+
+Sư đoàn phối hợp với Bạn khẩn trương nghiên cứu triển khai phương án tác chiến mới, bố trí lại lực lượng tổ chức trinh sát nắm tình hình, nắm chắc mọi thủ đoạn hoạt động của địch dưới mọi hình thức, hiệp đồng chặt chẽ với bạn truy bắt triệt để các loại địch đang lén lút hoạt động phá hoại; mở nhiều đợt hoạt động ở địa bàn Đông, Tây Ka Xỉ, Xay Xổm Bun, cứu thoát 11.000 người dân bị địch cưỡng bức vào căn cứ trở về bản làng; chốt giữ bảo đảm giao thông trên các tuyến đường quan trọng, trong đó có con đường số 13 huyết mạch xuyên dọc nước Lào (đoạn từ Xa La Phu Khun đến Viêng Chăn dài 250km do Sư đoàn phụ trách đã được bảo vệ an toàn); đồng thời phối hợp cùng với bạn xây dựng cho địa phương 28 trụ sở ủy ban huyện, xã, 17 trường học, 8 trạm xá và nhà hộ sinh, đóng 284 bộ bàn ghế cho các cháu học sinh, giúp địa phương hàng chục vạn ngày công làm thủy lợi và sản xuất, khám chữa bệnh cho hơn 20.000 lượt người… Trong những tháng giáp hạt, mất mùa đói kém, cán bộ, chiến sĩ Sư đoàn tiết kiệm, giảm khẩu phần ăn của mình giúp dân 42 tấn gạo, 10 tấn muối.
+
+Đánh giá kết quả hơn 3 năm làm nhiệm vụ quốc tế, trong dịp đến thăm Sư đoàn ngày 02 tháng 9 năm 1982, Đại tướng Xi Xa Vạt, Tổng tham mưu trưởng Quân đội nhân dân Lào nhận xét: “Sư đoàn 324 đã thể hiện bản chất tốt đẹp của Quân đội nhân dân Việt Nam anh hùng. Thông cảm với nổi khổ đau nghèo đói của nhân dân Lào, yêu quý nhân dân Lào như nhân dân Việt Nam, các đồng chí đã hy sinh xương máu, đánh đuổi bọn phản động, tay sai của các thế lực phản động, giúp nhân dân xây dựng chính quyền cách mạng, xây dựng những cuộc sống mới, huấn luyện và trang bị cho lực lượng vũ trang địa phương, giúp dân lao động sản xuất, xây dựng các công trình tình nghĩa… Sự hy sinh cao cả và cống hiến to lớn của Sư đoàn mãi mãi in sâu trong lòng nhân dân các bộ tộc Lào, càng tô thắm thêm tình đoàn kết chiến đấu giữa hai quân đội, hai dân tộc Việt - Lào anh em”.
+
+Ngày 22 tháng 12 năm 1982, Thượng tướng Xa Mán Vi Nha Kệt, Ủy viên Bộ Chính trị, Bí thư Trung ương Đảng, Chủ nhiệm Tổng cục Chính trị Quân đội nhân dân Lào đã gắn huân chương Độc lập hạng nhất lên lá cờ “Quyết chiến, quyết thắng” của Sư đoàn.
+
+Tháng 1 năm 1983, Đại tướng Văn Tiến Dũng, Ủy viên Bộ Chính trị Trung ương Đảng, Bộ trưởng Bộ Quốc phòng đến thăm Sư đoàn. Đại tướng biểu dương thành tích đạt được của Sư đoàn và nhắc nhở: Sư đoàn 324 hãy phát huy truyền thống “Trung dũng, kiên cường, liên tục tiến công, đoàn kết, chiến thắng”, tiếp tục phấn đấu vươn lên lập nhiều thành tích mới, góp phần vun đắp cho tình đoàn kết chiến đấu đặc biệt Việt - Lào mãi mãi xanh tươi, đời đời bền vững.
+
+Cũng trong dịp này, ghi nhận công lao của Sư đoàn 324 trong nhiệm vụ quốc tế vẻ vang ở Lào, ngày 25 tháng 01 năm 1983, đồng chí Trường Chinh, Chủ tịch Hội đồng Nhà nước Cộng hòa xã hội chủ nghĩa Việt Nam đã ký quyết định tặng danh hiệu Anh hùng lực lượng vũ trang nhân dân cho Sư đoàn; Trung đoàn 335; Tiểu đoàn 7, Đội công tác cơ sở số 3, Trung đoàn 3; Đội công tác cơ sở số 13, Trung đoàn 335 và Đại đội 24 Quân y, Trung đoàn 3.
+
+Bộ Quốc phòng Quân đội nhân dân Lào chủ trương “Kiên quyết đập tan mọi âm mưu, thủ đoạn phá hoại của địch, triệt đến tận gốc các ổ phỉ mới nhen nhóm, phát động toàn dân cùng với lực lượng vũ trang giữ gìn an ninh chính trị, trật tự an toàn xã hội, làm trong sạch địa bàn”. Bộ Tư lệnh Binh đoàn 678 quyết định truy quét địch dài ngày rộng khắp, liên tục làm tan rã hoàn toàn các ổ phỉ mới tập hợp. Sư đoàn 324 được lệnh khẩn trương thực hiện nhiệm vụ. Ngày 15 tháng 6 năm 1983, công tác chuẩn bị đã hoàn tất.
+
+Thời điểm này, mùa mưa đã được hơn một tháng. Nước ở các dòng sông ào ạt dâng cao, chảy xiết. Các hang động, núi đá trơn như đổ mỡ, đường sá lầy lội. Quân ta vẫn mang ba lô, gạo, đạn nặng vai, len lỏi xuyên rừng tìm địch, đánh địch không kể giờ giấc, thời tiết nắng mưa, đánh theo kế hoạch, phương án đã định. 15 giờ ngày 15 tháng 5 năm 1985, trận đánh vào Bom Lọng kết thúc. Hàng trăm tên phỉ bị diệt, 510 tên địch bị bắt và đầu hàng (trong đó có 2 trung tá, 1 thiếu tá, 21 cấp úy), 5000 dân được hoàn toàn giải phóng. Sào huyệt lớn của bọn phỉ mới nhen nhóm ở Bom Lọng đã bị đánh tan.
+
+Ngày 20 tháng 7 năm 1985, lễ kết nghĩa hai Sư đoàn được tiến hành trọng thể tại thủ đô Viêng Chăn. Sư đoàn trưởng Võ Chót, thay mặt Sư đoàn 324 và Sư đoàn trưởng Khăm Phăn, thay mặt Sư đoàn 1/QĐND Lào ký kết các văn kiện hợp tác giúp đỡ lẫn nhau về mọi mặt giữa hai Sư đoàn, ghi thêm dấu ấn lịch sử truyền thống đoàn kết anh em cùng chiến đấu chống kẻ thù chung của hai dân tộc.
+
+Song song với công tác tham gia vận động quần chúng, xây dựng chính quyền, Sư đoàn tổ chức huấn luyện, kèm cặp trong chiến đấu cho các đơn vị bộ đội địa phương; đồng thời tham gia xây dựng kinh tế giúp bạn trên quy mô lớn theo chủ trương của Bộ Quốc phòng và hướng dẫn của Tổng cục Xây dựng kinh tế của hai nước Việt - Lào. Phát huy thành tựu đã đạt được, năm 1987 các đơn vị ra quân xây dựng công trình đập thủy lợi Na Mon và Mường Phương. Tuyến đường mới từ Phà Tặng đi Bản Kho được bàn giao đúng thời gian cho bạn.
+
+Đánh giá công lao to lớn đó, Nhà nước Cộng hòa Dân chủ Nhân dân Lào đã ký quyết định tặng Huân chương Độc lập hạng Nhất cho Sư đoàn, Huân chương Độc lập hạng Nhì cho: Trung đoàn 1, Trung đoàn 335, Trung đoàn 3; Tiểu đoàn 27; Đại đội 21 Trinh sát, Đại đội 5, Đại đội 10, Trung đoàn 335.`,
+      keyEvents: [
+        "22/07/1977: Ký Hiệp định hợp tác quân sự Việt - Lào.",
+        "07/12/1977: Sư đoàn tới vị trí tập kết tại Lào, bắt đầu nhiệm vụ quốc tế.",
+        "13/11/1978: Chiến dịch giải phóng Phu Bia toàn thắng.",
+        "28/06/1978: Sư đoàn nằm trong đội hình Binh đoàn 678 mới thành lập.",
+        "25/01/1983: Sư đoàn được tặng danh hiệu Anh hùng Lực lượng vũ trang nhân dân.",
+        "15/05/1985: Chiến thắng trận Bom Lọng, đập tan sào huyệt lớn của phỉ.",
+        "20/07/1985: Lễ kết nghĩa giữa Sư đoàn 324 và Sư đoàn 1/QĐND Lào."
+      ]
+    },
+    staticQuiz: [
+      {
+        question: "Hiệp định hợp tác quân sự Việt - Lào được ký kết vào ngày nào?",
+        options: ["02/12/1975", "22/07/1977", "07/12/1977", "18/07/1977"],
+        correctAnswer: 1,
+        explanation: "Hiệp định được ký ngày 22/07/1977 bởi Đại tướng Võ Nguyên Giáp và Đại tướng Khăm-tày Xi-phăn-đon."
+      },
+      {
+        question: "Năm 1978, Sư đoàn 324 đã phối hợp với bạn Lào giải phóng căn cứ phỉ lớn nào?",
+        options: ["Cánh Đồng Chum", "Xiêng Khoảng", "Phu Bia", "Sầm Nưa"],
+        correctAnswer: 2,
+        explanation: "Sư đoàn đã phối hợp tiêu diệt và làm tan rã toàn bộ bọn phỉ ở căn cứ Phu Bia."
+      },
+      {
+        question: "Binh đoàn 678 được thành lập vào năm nào?",
+        options: ["1976", "1977", "1978", "1979"],
+        correctAnswer: 2,
+        explanation: "Ngày 28/6/1978, Chủ tịch nước ký Sắc lệnh thành lập Binh đoàn 678."
+      },
+      {
+        question: "Sư đoàn 324 được tặng danh hiệu Anh hùng LLVTND (trong giai đoạn làm nhiệm vụ quốc tế) vào năm nào?",
+        options: ["1980", "1982", "1983", "1985"],
+        correctAnswer: 2,
+        explanation: "Ngày 25/01/1983, Chủ tịch Hội đồng Nhà nước Trường Chinh đã ký quyết định tặng danh hiệu này."
+      },
+      {
+        question: "Sào huyệt phỉ Bom Lọng bị đánh tan vào thời gian nào?",
+        options: ["15/05/1983", "15/06/1983", "15/05/1985", "20/07/1985"],
+        correctAnswer: 2,
+        explanation: "Trận đánh vào Bom Lọng kết thúc thắng lợi vào 15 giờ ngày 15/05/1985."
+      },
+      {
+        question: "Sư đoàn 324 đã kết nghĩa với đơn vị nào của Quân đội nhân dân Lào vào năm 1985?",
+        options: ["Sư đoàn 968", "Sư đoàn 2", "Sư đoàn 1", "Lữ đoàn 176"],
+        correctAnswer: 2,
+        explanation: "Lễ kết nghĩa giữa Sư đoàn 324 và Sư đoàn 1/QĐND Lào diễn ra ngày 20/07/1985."
+      }
+    ]
   },
   {
     id: 'giai-doan-4',
     title: 'Xây dựng & Bảo vệ Tổ quốc',
-    years: '1989 - Nay',
+    years: '1987 - Nay',
     shortDescription: 'Trở về nước, tập trung xây dựng đơn vị vững mạnh toàn diện, sẵn sàng chiến đấu bảo vệ Tổ quốc trong thời bình.',
     image: 'https://picsum.photos/800/403?grayscale&blur=2',
-    // audioUrl removed until file is available
+    audioUrl: '/audio/giai-doan-4.mp3',
+    staticContent: {
+        fullText: `Xây dựng Sư đoàn vững mạnh toàn diện, “Mẫu mực, tiêu biểu” (1987 đến nay)
+
+Đại hội Đảng toàn quốc lần thứ VI (tháng 12 năm 1986) đã đề ra đường lối đổi mới toàn diện đất nước, xác định nhiệm vụ cấp bách nhất là đổi mới tư duy kinh tế, kiên quyết xóa bỏ cơ chế tập trung quan liêu bao cấp, nhấn mạnh sự thống nhất giữa chính sách kinh tế với chính sách xã hội. Đại hội quyết nghị: “Xây dựng quân đội nhân dân chính quy ngày càng hiện đại có chất lượng tổng hợp ngày càng cao, có tổ chức hợp lý, cân đối gọn và mạnh, có kỷ luật chặt chẽ, có trình độ sẵn sàng chiến đấu cao… Tăng cường xây dựng lực lượng dự bị, đẩy mạnh công tác nghiên cứu, phát triển nền khoa học quân sự và nghệ thuật quân sự Việt Nam”.
+Trong Đại hội chỉ rõ: “Phát triển và củng cố mối quan hệ giữa ba nước Việt Nam - Lào - Cam-pu-chia, đoàn kết và tôn trọng độc lập chủ quyền của mỗi nước, hợp tác toàn diện, giúp đỡ lẫn nhau xây dựng bảo vệ Tổ quốc”.
+Từ năm 1986, thực hiện Nghị quyết Đại hội lần thứ IV Đảng Nhân dân cách mạng Lào, tình hình Lào bước sang thời kỳ đổi mới. Bạn dần dần ổn định và phát triển. Sau nhiều năm phối hợp hoạt động chặt chẽ với quân tình nguyện Việt Nam, lực lượng vũ trang nhân dân Lào đã phát triển trưởng thành, từng bước đảm nhiệm nhiệm vụ phòng thủ đất nước, đủ sức đập tan mọi âm mưu thủ đoạn của kẻ thù. 
+Sau 10 năm hoàn thành xuất sắc nhiệm vụ trên đất Bạn Lào, đến cuối tháng 10 năm 1987 Tư lệnh Quân khu đã giao nhiệm vụ cho Sư đoàn 324 tổ chức bàn giao địa bàn cho bạn, đảm bảo bí mật, an toàn, chấp hành đúng quy định quan hệ quốc tế ta - bạn, hành quân về nước từ tháng 11 năm 1987; bố trí Trung đoàn bộ binh 1 ở lại Văng Viêng (Viêng Chăn) tiếp tục giúp bạn thêm một thời gian để ổn định tình hình. 
+Tháng 3 năm 1989 Sư đoàn tiến hành Đại hội Đảng bộ lần thứ V. Thành công của đại hội đã đánh dấu một bước phát triển của Đảng bộ Sư đoàn trong thời kỳ đầu đổi mới để xây dựng đơn vị theo hướng chính quy hiện đại. 
+ 
+Ngày 22 tháng 9 năm 1989, đồng chí Đoàn Khuê, Bộ trưởng Bộ Quốc phòng về thăm và làm việc tại Sư đoàn. Tại buổi làm đồng chí Bộ trưởng cũng biểu dương những thành tích của Sư đoàn đã đạt được trong những năm làm nhiệm vụ quốc tế vẻ vang trên đất Bạn, đặc biệt là những năm gần đây, cán bộ, chiến sĩ Sư đoàn đã phát huy truyền thống tự lực, tự cường, tích cực huấn luyện, rèn luyện xây dựng doanh trại, đẩy mạnh tăng gia sản xuất, chăn nuôi để nâng cao đời sống vật chất tinh thần cho bộ đội; xây dựng Sư đoàn thực sự vững mạnh toàn diện, hoàn thành xuất sắc nhiệm vụ chính trị được giao, góp phần xây dựng quân đội tiến lên chính quy, hiện đại. 
+ 
+Bước sang năm 1990, tình hình thế giới và trong nước có nhiều diễn biến phức tạp, chủ nghĩa xã hội ở Liên Xô và các nước Đông Âu sụp đổ; chủ nghĩa đế quốc và các thế lực thù địch ráo riết thực hiện chiến lược “Diễn biến hoà bình”, bạo loạn lật đổ, nhằm xoá bỏ chủ nghĩa xã hội ở các nước còn lại trên thế giới mà Việt Nam được chúng coi là một trọng điểm. Toàn Đảng ta đang ra sức thi đua hoàn thành các mục tiêu, chỉ tiêu Nghị quyết Đại hội Đảng toàn quốc lần thứ VI đề ra.
+Tháng 7 năm 1991, Sư đoàn lãnh đạo, chỉ đạo giải thể Trung đoàn 78 pháo binh. Trung đoàn 335 là đơn vị đủ quân, lực lượng cơ động đầu tiên, được Quân khu tập trung chỉ đạo xây dựng điểm vững mạnh toàn diện và huấn luyện riêng theo kế hoạch C89. Các đơn vị còn lại tiến hành huấn luyện theo chương trình quy định của các đối tượng. 
+Đầu năm 1994, Sư đoàn tổ chức di chuyển Trung đoàn 3 về vị trí mới ở Lạc Sơn, Đô Lương nhanh, gọn, an toàn. Năm 1995 là năm có ý nghĩa quyết định hoàn thành kế hoạch 5 năm thực hiện Nghị quyết Đại hội Đảng toàn quốc lần thứ VII. Tiếp tục ổn định tổ chức biên chế, nhất là các đơn vị mới được khôi phục, chỉ đạo Trung đoàn 335 xây dựng điểm đơn vị vững mạnh toàn diện. Công tác huấn luyện, xây dựng cơ quan có nền nếp chiều sâu, xuất hiện nhiều nhân tố điển hình như Tiểu đoàn 14, Tiểu đoàn 15, Tiểu đoàn 18 và Trung đoàn 1. Đầu tháng 3 năm 1995 đồng chí Lê Khả Phiêu, Chủ nhiệm Tổng Cục chính trị về thăm và làm việc tại Sư đoàn. 
+Thực hiện chủ trương điều chỉnh chiến lược của Đảng uỷ Quân sự Trung ương (nay là Quân uỷ Trung ương) và Bộ Quốc phòng, ngày 16 tháng 5 năm 1997, Tư lệnh Quân khu ra Quyết định số 280/QĐ khôi phục Sư đoàn thành đơn vị đủ quân, làm nhiệm vụ thường trực sẵn sàng cơ động chiến đấu của Quân khu và Bộ, đóng quân trên địa bàn hai tỉnh Nghệ An và Thanh Hoá. Đặc biệt từ tháng 6 năm 1997, Sư đoàn được khôi phục thành đơn vị đủ quân làm nhiệm vụ thường trực cơ động SSCĐ của Quân khu và Bộ. 
+Đến năm 2003, Sư đoàn ổn định biên chế khi bàn giao Trung đoàn 273 về Sư đoàn 341 và tiếp nhận Trung đoàn 3 từ Sư đoàn 341. Giai đoạn này, Sư đoàn tập trung xây dựng doanh trại, củng cố nơi ăn, chốn ở của bộ đội; tổ chức huấn luyện, sẵn sàng chiến đấu, gắn huấn luyện với xây dựng chính quy, rèn luyện kỷ luật và sẵn sàng làm nhiệm vụ C; xây dựng Đảng bộ Sư đoàn trong sạch vững mạnh, Sư đoàn vững mạnh toàn diện.
+Để đáp ứng yêu cầu lãnh đạo Quân đội trong điều kiện mới, ngày 20 tháng 7 năm 2005, Bộ Chính trị (Khóa IX) đã ra Nghị quyết số 51-NQ/TW về “Tiếp tục hoàn thiện cơ chế lãnh đạo của Đảng, thực hiện chế độ một người chỉ huy gắn với thực hiện chế độ chính ủy, chính trị viên trong Quân đội nhân dân Việt Nam”. 
+Tròn một thập kỷ từ 2006 - 2015, Sư đoàn triển khai thực hiện Nghị quyết 51-NQ/TW về “Tiếp tục hoàn thiện cơ chế lãnh đạo của Đảng, thực hiện chế độ một người chỉ huy gắn với thực hiện chế độ chính ủy, chính trị viên trong Quân đội nhân dân Việt Nam”, quá trình tổ chức thực hiện đã kết hợp chặt chẽ giữa công tác tư tưởng với công tác tổ chức, công tác chính sách; tiến hành chủ động, đồng bộ và vững chắc; năng lực lãnh đạo và sức chiến đấu của cấp ủy, chi bộ trong toàn đảng bộ và chất lượng, hiệu quả công tác đảng, công tác chính trị được nâng lên rõ rệt. Đây là cơ sở, nền tảng để Sư đoàn tiếp tục đổi mới, sáng tạo, nâng cao chất lượng huấn luyện, sẵn sàng chiến đấu, đáp ứng yêu cầu nhiệm vụ xây dựng và bảo vệ Tổ quốc trong tình hình mới. 
+Giai đoạn 2015 - 2025, Sư đoàn thực hiện nhiệm vụ trong điều kiện tình hình thế giới, khu vực tiếp tục diễn biến phức tạp, khó lường, đặc biệt là xung đột sắc tộc, cạnh tranh chiến lược giữa các nước lớn diễn ra thường xuyên, liên tục; trên Biển Đông tiềm ẩn nhiều nhân tố gây mất ổn định; khí hậu thời tiết không thuận lợi; tình hình tệ nạn xã hội, thiên tai, dịch bệnh diễn biến phức tạp, khó lường nhất là đại dịch Covid-19 bùng phát trên diện rộng. Bên cạnh đó, cuộc cách mạng Công nghiệp 4.0 ra đời mang cả cơ hội lẫn thách thức; các thế lực thù địch tăng cường các hoạt động chống phá trên nhiều lĩnh vực. 
+Đây là giai đoạn toàn Sư đoàn đẩy mạnh thực hiện Chỉ thị 05-CT/TW, ngày 15 tháng 5 năm 2016 của Bộ Chính trị về “Học tập và làm theo tư tưởng, đạo đức, phong cách Hồ Chí Minh”; tổ chức học tập, quán triệt, triển khai Chỉ thị số 87-CT/TW của Quân ủy Trung ương về “Đẩy mạnh học tập và làm theo tư tưởng, đạo đức, phong cách Hồ Chí Minh” gắn với thực hiện Cuộc vận động “Phát huy truyền thống, cống hiến tài năng, xứng danh Bộ đội Cụ Hồ”; xây dựng Sư đoàn vững mạnh toàn diện, “mẫu mực, tiêu biểu, đáp ứng yêu cầu, nhiệm vụ trong tình hình mới”.
+Bám sát tư tưởng chỉ đạo của cấp trên, Sư đoàn xác định và tập tập trung thực hiện các khâu đột phá hằng năm, chú trọng nâng cao chất lượng huấn luyện, sẵn sàng chiến đấu, nhất là huấn luyện diễn tập; xây dựng chính quy, giáo dục, quản lý kỷ luật đi vào chiều sâu, vững chắc; nâng cao năng lực lãnh đạo, sức chiến đấu của cấp ủy, chi bộ nhất là năng lực ra nghị quyết, triển khai thực hiện nghị quyết, công tác giáo dục, quản lý, rèn luyện đội ngũ cán bộ, đảng viên. Đồng thời phong trào thi đua Quyết thắng của Sư đoàn đã được cấp ủy, chính ủy, chính trị viên, người chỉ huy các cấp quan tâm lãnh đạo, chỉ đạo, triển khai đồng bộ, toàn diện, có trọng tâm, trọng điểm, sát thực tiễn và nhiệm vụ được giao. Phong trào thi đua Quyết thắng diễn ra liên tục, rộng khắp, có chiều sâu, gắn kết chặt chẽ với phong trào Thi đua yêu nước và các cuộc vận động của các cấp, các ngành, với học tập và làm theo tư tưởng, đạo đức, phong cách Hồ Chí Minh. Cán bộ, chiến sĩ tin tưởng tuyệt đối và chấp hành tốt đường lối, chủ trương của Đảng, chính sách và pháp luật của Nhà nước, thi đua hoàn thành xuất sắc nhiệm vụ được giao.
+Ngày 27/02/2017, trong chuyến làm việc trên địa bàn Quân khu 4, vinh dự, tự hào cho cán bộ, chiến sĩ Sư đoàn 324 được đón đồng chí Đại tướng Ngô Xuân Lịch, nguyên Ủy viên Bộ Chính trị, Phó Bí thư Quân ủy Trung ương, Bộ trưởng Bộ Quốc phòng cùng Đoàn công tác của Bộ Quốc phòng đến thăm, kiểm tra, làm việc tại Sư đoàn. 
+Đặc biệt, ngày 08/10/2024, Đại tướng Phan Văn Giang, Ủy viên Bộ Chính trị, Phó Bí thư Quân ủy Trung ương, Bộ trưởng Bộ Quốc phòng cùng Đoàn công tác của Bộ Quốc phòng đã thăm, làm việc tại Sư đoàn, phát biểu chỉ đạo tại buổi làm việc, đồng chí Bộ trưởng đã ghi nhận, biểu dương và chúc mừng những kết quả mà Sư đoàn đã đạt được, nhất là trong công tác huấn luyện, sẵn sàng chiến đấu, xây dựng chính quy, rèn luyện kỷ luật, bảo đảm an toàn quân đội và khắc phục hậu quả thiên tai, bão lụt, cán bộ, chiến sĩ Sư đoàn đã đoàn kết, thống nhất, khắc phục khó khăn, hoàn thành xuất sắc mọi nhiệm vụ. Đồng thời, đồng chí Bộ trưởng khen ngợi và căn dặn: “Rất cảm ơn cán bộ, chiến sĩ Sư đoàn 324 trong thời gian qua, các đồng chí đã đoàn kết để lập nên truyền thống “Trung dũng, kiên cường, liên tục tiến công, đoàn kết, chiến thắng”. Thời bình phải lấy huấn luyện, sẵn sàng chiến đấu là nhiệm vụ trọng tâm, thường xuyên, xuyên suốt. Duy trì kỷ luật là một điều rất cần thiết trong Quân đội, hành động của cán bộ là mệnh lệnh không lời, rất mong các đồng chí chú ý và thực hiện tốt”. 
+ 
+Trước những diễn biến phức tạp của tình hình thế giới, khu vực và sự chống phá quyết liệt của của các thế lực phản động, cơ hội chính trị; cán bộ, chiến sĩ Sư đoàn luôn tỏ rõ bản lĩnh chính trị vững vàng, trung thành tuyệt đối với Đảng, Nhà nước và Nhân dân, đấu tranh làm thất bại mọi âm mưu, thủ đoạn “Diễn biến hòa bình”, bạo loạn lật đổ của chủ nghĩa đế quốc và các thế lực thù địch, bảo vệ vững chắc Tổ quốc Việt Nam XHCN và những thành quả đã giành được trong công cuộc đổi mới đất nước. 
+Gần 40 năm qua, Sư đoàn đã tập trung nâng cao trình độ và khả năng SSCĐ, tổ chức huấn luyện theo phương châm "Cơ bản, thiết thực, vững chắc", đồng bộ và chuyên sâu, chất lượng huấn luyện từng bước được nâng lên; tổ chức các cuộc diễn tập tổng hợp có bắn đạn thật quy mô từ cấp đại đội đến cấp trung đoàn, diễn tập khu vực phòng thủ bờ biển, tham gia cứu hộ, cứu nạn, khắc phục hậu quả thiên tai đều hoàn thành tốt và xuất sắc nhiệm vụ; tham gia hội thi, hội thao ở Bộ và Quân khu nhiều nội dung đạt giải cao. Qua các lần kiểm tra của Bộ và Quân khu đều đạt giỏi. Kết hợp chặt chẽ giữa huấn luyện với xây dựng chính quy, rèn luyện kỷ luật tạo chuyển biến vững chắc, dân chủ được mở rộng, kỷ luật, kỷ cương được tăng cường, đoàn kết cán binh, trách nhiệm trong xây dựng đơn vị được nâng lên, đáp ứng yêu cầu nhiệm vụ trong tình hình mới.
+Thực hiện chức năng đội quân công tác, những năm qua Sư đoàn thực hiện có hiệu quả kế hoạch hành quân dã ngoại kết hợp làm công tác dân vận, thường xuyên chăm lo xây dựng, củng cố mối quan hệ đoàn kết máu thịt quân dân; thực hiện tốt phong trào “Quân đội chung sức xây dựng nông thôn mới”; hành trình “Quân đội chung tay vì người nghèo - Không để ai bị bỏ lại phía sau”; giúp dân phòng chống bão lụt, cứu hộ, cứu nạn, khắc phục hậu quả thiên tai; vận động quần chúng xây dựng cơ sở chính trị, củng cố trận địa lòng dân. Hình ảnh cán bộ, chiến sĩ Sư đoàn 324 luôn có mặt ở những nơi khó khăn, nguy hiểm nhất, dầm mình trong mưa lũ, kịp thời cứu tính mạng, tài sản của nhân dân, làm “Hồi sinh” những trường học, bản làng đã xây đắp tình quân dân thắm thiết, tô thắm thêm truyền thống và phẩm chất cao đẹp “Bộ đội Cụ Hồ”. Công tác đối ngoại quân sự của Sư đoàn có bước phát triển mới, nhất là hoạt động kết nghĩa với Sư đoàn 1 - Quân đội nhân dân Lào và việc tổ chức đón tiếp, làm việc với đoàn cán bộ các nước đã để lại ấn tượng, tình cảm tốt đẹp góp phần giữ vững, tăng cường mối quan hệ đoàn kết hữu nghị quốc tế, nâng cao vị thế của Sư đoàn trong giai đoạn mới. 
+Ngoài việc thực hiện chức năng đội quân chiến đấu, đội quân công tác, Sư đoàn luôn nêu cao tinh thần chủ động, sáng tạo, tự lực, tự cường, khắc phục khó khăn, đẩy mạnh tăng gia sản xuất, thực hành tiết kiệm, cải thiện và nâng cao đời sống vật chất, tinh thần bộ đội. Doanh trại được đầu tư xây dựng cơ bản chính quy, sáng, xanh, sạch, đẹp, bộ mặt của đơn vị ngày càng khởi sắc, cán bộ, chiến sĩ yên tâm, phấn khởi, gắn bó xây dựng đơn vị. 
+Trong giai đoạn này, Sư đoàn được Chính phủ tặng 02 Cờ thi đua và 01 Bằng khen của Thủ tướng Chính phủ; Bộ Quốc phòng tặng 10 Cờ thi đua, 32 Bằng khen, Bộ Tư lệnh Quân khu tặng 05 Cờ thi đua, 28 Bằng khen, 68 Giấy khen; Ủy ban nhân dân tỉnh các tỉnh Thanh Hóa, Nghệ An, Hà Tĩnh, Quảng Bình tặng 10 Bằng khen. Nhà nước Cộng hòa dân chủ nhân dân Lào tặng 01 Huân chương Lao động hạng Ba. Toàn Sư đoàn có 10.151 lượt tập thể, 72.751 lượt cá nhân được khen thưởng trong Phong trào thi đua Quyết thắng. Những thành tích đạt được đã khẳng định rằng, trong những năm qua Sư đoàn đã có bước trưởng thành, khẳng định vai trò, vị thế, uy tín ngày càng cao, góp phần cùng toàn Đảng, toàn quân và toàn dân xây dựng thành công và bảo vệ vững chắc Tổ quốc Việt Nam xã hội chủ nghĩa.
+Trải qua 70 năm xây dựng, chiến đấu, chiến thắng và trưởng thành, Sư đoàn đã lập nên nhiều chiến công oanh liệt, hoàn thành xuất sắc mọi nhiệm vụ mà Đảng, Nhà nước, Quân đội và nhân dân giao phó. Được Đảng, Nhà nước 2 lần tuyên dương đơn vị anh hùng LLVT nhân dân (Sư đoàn có 3 trung đoàn; 6 tiểu đoàn; 4 đại đội; 2 đội cơ sở và 12 đồng chí được tuyên dương anh hùng lực lượng vũ trang nhân dân, trong đó có Sư đoàn; Trung đoàn 1; Trung đoàn 335; Tiểu đoàn 7, Trung đoàn 3 được tuyên dương lần thứ 2); tặng thưởng 01 Huân chương Hồ Chí Minh; 07 Huân chương Quân công các loại; 01 Huân chương lao động hạng 3; 03 lần được tặng thưởng Lẵng hoa của Chủ tịch nước, 04 năm liền giữ Cờ luân lưu của Chủ tịch Hội đồng Bộ trưởng. Được Đảng và Nhà nước Lào tặng thưởng 3 Huân chương Ít-xa-la hạng Nhất. Đây là niềm vinh dự, tự hào cho các thế hệ cán bộ, chiến sĩ Sư đoàn đã không ngại gian khổ, hy sinh, vượt qua muôn vàn gian lao, thử thách xây đắp nên thành tích vẻ vang đó.`,
+      keyEvents: [
+            "11/1987: Sư đoàn hành quân về nước sau 10 năm làm nhiệm vụ quốc tế.",
+            "16/05/1997: Khôi phục Sư đoàn thành đơn vị đủ quân, thường trực SSCĐ.",
+            "2003: Ổn định biên chế, tiếp nhận lại Trung đoàn 3.",
+            "20/07/2005: Thực hiện Nghị quyết 51-NQ/TW về chế độ Chính ủy, chính trị viên.",
+            "27/02/2017: Đại tướng Ngô Xuân Lịch thăm và làm việc tại Sư đoàn.",
+            "08/10/2024: Đại tướng Phan Văn Giang thăm và kiểm tra Sư đoàn.",
+            "Nay: Sư đoàn 2 lần được tuyên dương Anh hùng LLVT nhân dân."
+      ]
+    },
+    staticQuiz: [
+        {
+            question: "Tháng 11/1987, Sư đoàn 324 thực hiện nhiệm vụ gì quan trọng?",
+            options: ["Hành quân sang Lào chiến đấu.", "Hành quân về nước, kết thúc 10 năm làm nhiệm vụ quốc tế.", "Tham gia chiến tranh biên giới phía Bắc.", "Giải thể để xây dựng kinh tế."],
+            correctAnswer: 1,
+            explanation: "Sau 10 năm hoàn thành xuất sắc nhiệm vụ trên đất Bạn Lào, tháng 11/1987 Sư đoàn hành quân về nước."
+        },
+        {
+            question: "Ngày 16/5/1997, quyết định nào đã thay đổi tính chất nhiệm vụ của Sư đoàn?",
+            options: ["Chuyển thành đơn vị làm kinh tế.", "Khôi phục thành đơn vị đủ quân, làm nhiệm vụ thường trực SSCĐ.", "Sáp nhập vào Quân khu 5.", "Giải thể các đơn vị pháo binh."],
+            correctAnswer: 1,
+            explanation: "Ngày 16/5/1997, Tư lệnh Quân khu ra quyết định khôi phục Sư đoàn thành đơn vị đủ quân, thường trực SSCĐ."
+        },
+        {
+            question: "Năm 2003, Sư đoàn đã tiếp nhận lại trung đoàn nào?",
+            options: ["Trung đoàn 1", "Trung đoàn 3", "Trung đoàn 335", "Trung đoàn 273"],
+            correctAnswer: 1,
+            explanation: "Năm 2003, Sư đoàn bàn giao Trung đoàn 273 và tiếp nhận Trung đoàn 3 từ Sư đoàn 341."
+        },
+        {
+            question: "Đại tướng Phan Văn Giang về thăm Sư đoàn vào thời gian nào?",
+            options: ["27/02/2017", "22/09/1989", "08/10/2024", "22/12/2020"],
+            correctAnswer: 2,
+            explanation: "Ngày 08/10/2024, Đại tướng Phan Văn Giang cùng Đoàn công tác Bộ Quốc phòng đã thăm, làm việc tại Sư đoàn."
+        },
+        {
+            question: "Phương châm huấn luyện của Sư đoàn trong giai đoạn hiện nay là gì?",
+            options: ["Cơ bản, thiết thực, vững chắc.", "Cơ bản, hệ thống, thống nhất.", "Thiết thực, hiệu quả, an toàn.", "Nhanh, mạnh, chính xác."],
+            correctAnswer: 0,
+            explanation: "Sư đoàn tổ chức huấn luyện theo phương châm 'Cơ bản, thiết thực, vững chắc'."
+        },
+        {
+            question: "Tính đến nay, Sư đoàn 324 đã được tuyên dương danh hiệu Anh hùng LLVT nhân dân mấy lần?",
+            options: ["1 lần", "2 lần", "3 lần", "4 lần"],
+            correctAnswer: 1,
+            explanation: "Sư đoàn đã 2 lần được tuyên dương đơn vị anh hùng LLVT nhân dân."
+        },
+         {
+            question: "Ngày 22/9/1989, vị lãnh đạo nào của Bộ Quốc phòng đã về thăm Sư đoàn?",
+            options: ["Đại tướng Võ Nguyên Giáp", "Đại tướng Văn Tiến Dũng", "Đại tướng Đoàn Khuê", "Đại tướng Phùng Quang Thanh"],
+            correctAnswer: 2,
+            explanation: "Ngày 22/9/1989, đồng chí Đoàn Khuê, Bộ trưởng Bộ Quốc phòng về thăm và làm việc tại Sư đoàn."
+        }
+    ]
   }
 ];

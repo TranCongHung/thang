@@ -101,9 +101,11 @@ const PeriodDetail: React.FC = () => {
                     <BookOpen size={20} />
                     <span>Tài liệu lịch sử</span>
                 </div>
-                <div className="flex space-x-3">
-                     {/* Static Audio Player */}
-                     <AudioPlayer audioSrc={period.audioUrl} />
+                <div className="flex space-x-3 items-center">
+                     {/* Audio Player Logic */}
+                     {period.audioUrl && (
+                         <AudioPlayer audioSrc={period.audioUrl} />
+                     )}
 
                      <button 
                         onClick={handleQuizStart}
